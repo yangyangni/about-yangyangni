@@ -7,16 +7,15 @@
 - New book coming soon (insert website)
 - New theory of music course coming soon
  
-### Qualifications
+## Qualifications
 - AMEB Saxophone in Licentiate Diploma (2020)
 - AMEB Saxophone in Associate Diploma (2019)
 - AMEB Theory of Music Grade 5 (2019)
 - Registered with music teachers online 
 
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="(insertwebsite)" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/yangyang-ni-a3782120a/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/yangyangnii/" />][instagram]
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="yangyangni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/yangyangnii/)
 
 
