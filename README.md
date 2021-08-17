@@ -14,8 +14,25 @@
 - Registered with music teachers online 
 
 ## Connect with me:
-[<img align="left" alt="..." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="yangyangni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/yangyangnii/)
+<div class="social-icons-image">
+                <a href="http://www.facebook.com">
+                    <img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" width="22px">
+                </a>
+            </div>
+<div class="social-icons">
+            <div class="social-icons-image">
+                <a href="https://www.instagram.com/yangyangnii/">
+                    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram Icon" width="22px"> 
+                </a>
+            </div>
+<div class="social-icons-image">
+                <a href="https://www.linkedin.com/in/yangyang-ni-a3782120a/">
+                    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin Icon" width="22px">
+                </a>
+            </div>
+        </div>
+
+<br />
 
 ## Blogs
 - 
