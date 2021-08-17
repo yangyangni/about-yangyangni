@@ -6,7 +6,6 @@
 - I teach saxophone, piano and music theory 
 - New book coming soon (insert website)
 - New theory of music course coming soon
-- 
  
 ### Qualifications
 - AMEB Saxophone in Licentiate Diploma (2020)
